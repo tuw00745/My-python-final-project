@@ -1,0 +1,31 @@
+In just a sentence or two, summarize your project.
+
+My project will be a Basketball Tracker created using Python. It will allow users to keep track of basketball games, team scores, player statistics, and game results.
+
+In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
+
+My project will be a basketball tracking program designed to organize and keep track of basketball game information. Users will be able to enter team names, record scores, track points, and view game results. The program will calculate final scores and display which team won the game. I also plan to include player statistics such as points scored, rebounds, and assists. I will use Python to create the program and make it easy for users to navigate through a simple menu. My goal is to create a useful and organized basketball tracker.
+
+If planning to combine 1051’s final project with another course’s final project, with which other course?
+
+N/A. This project will be completed for CIS 1051 only.
+
+If planning to collaborate with 1 or 2 classmates for the final project, list their names, email addresses, and the name of the classmate assigned TA below.
+
+N/A. I plan to work independently.
+
+Define a GOOD outcome for your final project.
+
+A good outcome would be creating a working basketball tracker that allows users to enter team names, record scores, and display game results.
+
+Define a BETTER outcome for your final project.
+
+A better outcome would include tracking individual player statistics such as points, rebounds, and assists.
+
+Define a BEST outcome for your final project
+
+The best outcome would be a complete basketball tracker that records game scores, tracks player statistics, calculates team results, and organizes information from multiple games.
+
+Outline your next steps. What new skills will you need to acquire? What topics will you need to research?
+
+My next steps will be to research how to create a basketball tracker using Python. I will need to learn how to use variables, input statements, lists, functions, and mathematical calculations. I will also research how to organize game information and calculate player statistics. I will start by building the basic program and gradually add more features. Finally, I will test the program to make sure everything works correctly.
